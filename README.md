@@ -1,10 +1,10 @@
-# NextGen AI Studio       
+# Nextgen AI Studio       
 
 ![final output ](https://i.pinimg.com/originals/88/ea/7b/88ea7be0d41dc1a6cb0ab831bf9bd445.jpg)
 
 ![final output ](https://i.pinimg.com/originals/99/a4/fa/99a4faab6bf482889a01f8bc202c1396.jpg)
 
-🎨 NextGen AI Studio is not just an image generation app; it's a revolutionary SaaS product designed to solve a crucial problem - unleashing creativity effortlessly! 🚀
+🎨 Nextgen AI Studio is not just an image generation app; it's a revolutionary SaaS product designed to solve a crucial problem - unleashing creativity effortlessly! 🚀
 
 🛠️ Built with the MERN Stack and powered by the OpenAI API, this platform makes creative expression seamless. The Cloudinary integration ensures efficient image management for a smoother user experience.
 
@@ -24,7 +24,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/bala587/NextGen-AI-Studio.git
+git clone https://github.com/bala587/Nextgen-AI-Studio.git
 ```
 
 ### Install packages (client and server)
@@ -46,11 +46,11 @@ CLOUDINARY_SECRET_API=
  ### Start Your Server
 
  ```shell
-PS C:\Users\ELCOT\Videos\NextGen_AI Studio\server> npm start
+PS C:\Users\ELCOT\Videos\Nextgen_AI Studio\server> npm start
 ```
 ### Start Your Client
 
 ``` shell
-PS C:\Users\ELCOT\Videos\NextGen_AI Studio\client> npm run dev
+PS C:\Users\ELCOT\Videos\Nextgen_AI Studio\client> npm run dev
 ```
   
