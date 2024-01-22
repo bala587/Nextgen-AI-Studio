@@ -15,7 +15,7 @@
 - Download and share your creations with the community 🌐
 - Enter any prompt and witness the magic happen! 🎩✨
 
-# 🌐 How it Works:
+### 🌐 How it Works:
 
 1. Enter your prompt
 2. Watch the AI magic unfold
